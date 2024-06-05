@@ -5,6 +5,7 @@ Ineffective manual recording system, untrackable income and expenses, and diffic
 Notes: 
 1. Before running the application, don't forget to import the database from the database.sql file.
 2. In the Form.cs window, modify the SQL server, uid, pwd, and database to your configuration, as shown in the following screenshot.
+
    ![image](https://github.com/keziaelice/POS-Application-Bebek-Lumer-Mbak-Siti/assets/127367044/789495ee-770a-4653-8dd1-f6771268119a)
 
-4. Run the application and use the stored account (_username: Dito Surya_, _password: adminadmin_). 
+3. Run the application and use the stored account (_username: Dito Surya_, _password: adminadmin_). 
